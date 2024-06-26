@@ -3,4 +3,4 @@ To extract "json" file into "txt"
  
 "lyre json file"
   
-"The rest DM me,'t.me/Gyki20'"
+"The rest DM me,'t.me/Gyuki20'"
